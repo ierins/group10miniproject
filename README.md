@@ -5,5 +5,12 @@ The use of vehicles in our life is increasing exponentially day by day. As incre
 
 Dependencies
 
-    OpenCV
-    Numpy   http://www.numpy.org/
+    openCV  https://opencv.org/
+    numpy   http://www.numpy.org/
+    sys     http://effbot.org/librarybook/sys.htm
+    
+Usage
+    python task2.py --<image_file_path>
+    The output will be stored in the output.txt file.
+    
+ 
