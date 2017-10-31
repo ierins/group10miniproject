@@ -10,7 +10,11 @@ Dependencies
     sys     http://effbot.org/librarybook/sys.htm
     
 Usage
+
     python task2.py --<image_file_path>
     The output will be stored in the output.txt file.
+    
+    
+
     
  
